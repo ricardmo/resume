@@ -17,8 +17,9 @@
 1. PostgreSQL 
 1. CSS / less / HTML5
 1. C
-1. Python
-1. Ruby
+1. Python / Ruby
+1. Bash
+1. Mathematica
 1. Haskell
 1. Elisp
 
@@ -39,9 +40,11 @@
 	**Environnement technique (Frontend)** Grunt, Browserify, Backbone.js, d3.js, Marionette, Jasmine, Twitter Bootstrap. 
 	
 	
+**Vauvert, Narcisse bar à vin, Ritz Paris** *Maitre d'hotel, serveur* __2004 à 2012__
+	Experiences variees en restauration, incluant plusieurs postes à responsabilite.
 ------
 
-### Projects
+### Projets
 
 * **Check types** (js)
 	<a href=https://github.com/philbooth/check-types.js>check-types.js</a> 
@@ -53,7 +56,7 @@
 
 * **requireJS mode** (elisp)
 	<a href=https://github.com/ricardmo/requirejs-mode>requirejs-mode</a>
-	Mode mineur pour l'éditeur Emacs permettant de générer du code pour la gestion de module AMD.
+	Mode mineur pour l'éditeur Emacs permettant de générer du code pour la gestion de modules AMD.
 ------
 
 ### Education
