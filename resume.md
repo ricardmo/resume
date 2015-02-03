@@ -50,16 +50,16 @@ Expériences variees en restauration, incluant plusieurs postes à responsabilit
 ### Projets
 
 * **Check types** (js)
-	<a href=https://github.com/philbooth/check-types.js>check-types.js</a> 
-	Librairie de validation de type de données en Javascript. Refactorisation complète de la librairie, élimination de duplication de code et ajout de fonctionalités en introduisant des concepts de programmation fonctionnelle.
+<a href=https://github.com/philbooth/check-types.js>check-types.js</a> 
+Librairie de validation de type de données en Javascript. Refactorisation complète de la librairie, élimination de duplication de code et ajout de fonctionalités en introduisant des concepts de programmation fonctionnelle.
 
 * **Visual Hacker News** (js)
-	<a href=https://github.com/ricardmo/vishna>vishna.js</a>
-	Visualisation des articles de [hackernews](http://news.ycombinator.com) utilisant d3.js
+<a href=https://github.com/ricardmo/vishna>vishna.js</a>
+Visualisation des articles de [hackernews](http://news.ycombinator.com) utilisant d3.js
 
 * **requireJS mode** (elisp)
-	<a href=https://github.com/ricardmo/requirejs-mode>requirejs-mode</a>
-	Mode mineur pour l'éditeur Emacs permettant de générer du code pour la gestion de modules AMD.
+<a href=https://github.com/ricardmo/requirejs-mode>requirejs-mode</a>
+Mode mineur pour l'éditeur Emacs permettant de générer du code pour la gestion de modules AMD.
 ------
 
 ### Education
