@@ -6,7 +6,7 @@
 
 ------
 
-### Technical
+### Technique
 
 1. Java
 1. Akka
@@ -28,20 +28,23 @@
 ### Expérience
 
 **KeaText** *Analyste programmeur* __2012 à maintenant__
-	Développement complèt d'une application web réactive pour la recherche de renseignement d'origine source ouverte. (OSINT)
-	Architecture asynchrone basée sur un système d'acteur (Akka) pour le traitement et l'analyse d'une quantité massive de documents.
-	Connection à différents services de recherche pour l'aggrégation de l'information.
-	Interface web dynamique (Backbone.js) communiquant en temps réel avec le backend via Websockets.
-	Développement d'un module permettant aux utilisateurs d'annoter directement les documents dans le navigateur.
-	Maintient et migration de l'intégration continue, de Jenkins vers Bamboo.
-	Administration des infrastructures Linux (Ubuntu).
-	Configuration des frontends Nginx.
-	**Environnement technique (Backend)** Play! framework, PostgreSQL, Akka, Maven, sbt.
-	**Environnement technique (Frontend)** Grunt, Browserify, Backbone.js, d3.js, Marionette, Jasmine, Twitter Bootstrap. 
+
+Développement complèt d'une application web réactive pour la recherche de renseignement d'origine source ouverte. (OSINT)
+Architecture asynchrone basée sur un système d'acteur (Akka) pour le traitement et l'analyse d'une quantité massive de documents.
+Connection à différents services de recherche pour l'aggrégation de l'information.
+Interface web dynamique (Backbone.js) communiquant en temps réel avec le backend via Websockets.
+Développement d'un module permettant aux utilisateurs d'annoter directement les documents dans le navigateur.
+Maintient et migration de l'intégration continue, de Jenkins vers Bamboo.
+Administration des infrastructures Linux (Ubuntu).
+Configuration des frontends Nginx.
+
+**Environnement technique (Backend)** Play! framework, PostgreSQL, Akka, Maven, sbt.
+**Environnement technique (Frontend)** Grunt, Browserify, Backbone.js, d3.js, Marionette, Jasmine, Twitter Bootstrap. 
 	
 	
-**Vauvert, Narcisse bar à vin, Ritz Paris** *Maitre d'hotel, serveur* __2004 à 2012__
-	Experiences variees en restauration, incluant plusieurs postes à responsabilite.
+**Vauvert, Narcisse bar à vin, Ritz Paris** *Postes variés* __2004 à 2012__
+Expériences variees en restauration, incluant plusieurs postes à responsabilite.
+
 ------
 
 ### Projets
