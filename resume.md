@@ -59,7 +59,7 @@ Visualisation des articles de [hackernews](http://news.ycombinator.com) utilisan
 
 * **requireJS mode** (elisp)
 <a href=https://github.com/ricardmo/requirejs-mode>requirejs-mode</a>
-Mode mineur pour l'éditeur Emacs permettant de générer du code pour la gestion de modules AMD.
+Mode mineur pour Emacs permettant de générer du code pour la gestion de modules AMD.
 ------
 
 ### Education
